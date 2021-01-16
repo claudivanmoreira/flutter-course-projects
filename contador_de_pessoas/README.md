@@ -1,16 +1,36 @@
 # contador_de_pessoas
 
-A new Flutter project.
+Aplicação para estudo de Flutter
 
-## Getting Started
+### Contexto
 
-This project is a starting point for a Flutter application.
+Basicamente, a ideia é criar uma partida de CS GO com no maximo 5 pessoas.
 
-A few resources to get you started if this is your first Flutter project:
+Clicando no botão ( +1 ), uma nova pessoa é adicionada na partida.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Clicando no botão ( -1 ), uma pessoa é removida da partida. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Regras:
+
+Caso a quantidade de pessoas seja até 5, o aplicativo exibe a mensagem "Pode Entrar" em cor verde. Caso ultrapasse esse valor, exibe a mensagem "Não Pode Entrar" em vermelho.
+
+### Widgets Usados
+
+- Scaffold
+- Stack
+- Image
+- Center
+- Container
+- Column
+- Text
+- Row
+- Padding
+- FlatButton
+- StatefulWidget
+
+
+### Screenshot
+
+
+
+![screenshot](https://raw.githubusercontent.com/claudivanmoreira/flutter-course-projects/master/contador_de_pessoas/screenshot.png)
