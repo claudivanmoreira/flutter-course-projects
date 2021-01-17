@@ -33,4 +33,4 @@ Caso a quantidade de pessoas seja até 5, o aplicativo exibe a mensagem "Pode En
 
 
 
-![screenshot](https://raw.githubusercontent.com/claudivanmoreira/flutter-course-projects/master/contador_de_pessoas/screenshot.png)
+![screenshot](https://github.com/claudivanmoreira/flutter-course-projects/blob/master/contador_de_pessoas/screenshot.png?raw=true)
