@@ -1,4 +1,4 @@
-# contador_de_pessoas
+# Contador de Pessoas
 
 Aplicação para estudo de Flutter
 
