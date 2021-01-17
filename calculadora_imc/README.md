@@ -1,4 +1,4 @@
-# calcularoda_imc
+# Calculadora IMC
 
 Aplicação para estudo de Flutter
 
