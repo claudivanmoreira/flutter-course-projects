@@ -7,3 +7,4 @@ Os apps desenvolvidos aqui, são exercícios do curso [Criação de Apps Android
 - [Contador de Pessoas](./contador_de_pessoas)
 - [Calculadora IMC](./calculadora_imc)
 - [Conversor de Moedas](./conversor_moeda)
+- [Lista de Tarefas](./lista_tarefas)
