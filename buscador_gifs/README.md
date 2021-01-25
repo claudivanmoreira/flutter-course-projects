@@ -50,7 +50,7 @@ A aplicação deve consultar gifs para compartilhamento.
 
 # API
 
-![Giphy](https://developers.giphy.com)
+[Giphy API](https://developers.giphy.com)
 Username: xacohew356@pashter.com
 Pwd: xacohew356@pashter.com
 Name: xacohew356
