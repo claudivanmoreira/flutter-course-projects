@@ -8,3 +8,4 @@ Os apps desenvolvidos aqui, são exercícios do curso [Criação de Apps Android
 - [Calculadora IMC](./calculadora_imc)
 - [Conversor de Moedas](./conversor_moeda)
 - [Lista de Tarefas](./lista_tarefas)
+- [Buscador de GIFs](./buscador_gifs)
